@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zadanie3_saper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3714364c625cf6c375d74f50f5ebb2ba764a6a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+069a1343957f96bd493b78697d53e71d99753470")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zadanie3_saper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zadanie3_saper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
